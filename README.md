@@ -1,5 +1,7 @@
 # Awesome Deep learning papers and other resources
 
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+
 A list of recent papers regarding deep learning and deep reinforcement learning. They are sorted by time to see the recent papers first.
 I will renew the recent papers and add notes to these papers.
 
@@ -134,18 +136,23 @@ You should find the papers and software with star flag are more important or pop
 * [Stanford] [CS20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
 * [Stanford] [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/index.html)
 * [Stanford] [CS 228: Probabilistic Graphical Models](http://cs.stanford.edu/~ermon/cs228/index.html)
+* [Stanford] [STATS 385: Theories of Deep Learning](https://stats385.github.io/)
 * [Toronto] [CSC 2541 Fall 2016:Differentiable Inference and Generative Models](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
 * [Utah] [Applied Computational Genomics Course at UU](https://github.com/quinlan-lab/applied-computational-genomics)
 * [YouTube][OpenCV with Python for Image and Video Analysis](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq)
+* [Statistical and Discrete Methods for Scientific Computing](http://wpressutexas.net/coursewiki/index.php?title=Main_Page)
+* [ANDREW NG][deeplearning.ai](https://www.deeplearning.ai/)
 * [吴立德] [《深度学习课程》](http://list.youku.com/albumlist/show?id=21508721&ascending=1&page=1)
 * [李宏毅] [Machine Learning and having it Deep and Structured](https://www.youtube.com/playlist?list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9)
 * [林轩田] [机器学习基石](https://www.bilibili.com/video/av12463015/)
+* [Introductory Machine Learning Algorithms in Python with scikit-learn](https://egghead.io/courses/introductory-machine-learning-algorithms-in-python-with-scikit-learn)
 
 # Books
 
 * [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/). [`中文版本`](https://github.com/exacity/deeplearningbook-chinese)
 * [Deep Learning Tutorial by LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf)
 * [Documentation on all topics that I learn on both Artificial intelligence and machine learning.](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
+* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 * [Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python](https://github.com/rasbt/deep-learning-book)
 * [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
 * [神经网络与深度学习.邱锡鹏](https://nndl.github.io/)
@@ -161,6 +168,8 @@ You should find the papers and software with star flag are more important or pop
 * [Neural Networks: Tricks of the Trade (Lecture Notes in Computer Science)](https://link.springer.com/book/10.1007%2F978-3-642-35289-8)
 * [Scikit-learn 秘籍](https://www.gitbook.com/book/wizardforcel/sklearn-cookbook/details)
 * [Python Data Science Handbook](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
+* [Mathematical Foundations](https://mathematical-tours.github.io/book/)
+* [Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action)
 
 ### Tutorials
 
@@ -190,6 +199,7 @@ You should find the papers and software with star flag are more important or pop
     - <b>`Chainer`</b> [Chainer bridge the gap between algorithms and implementations of deep learning.](http://chainer.org/)
     - <b>`ChainerMN`</b> [ChainerMN: Scalable distributed deep learning with Chainer](https://github.com/chainer/chainermn)
     - <b>`ChainerRL`</b> [A deep reinforcement learning library built on top of Chainer.](https://github.com/pfnet/chainerrl)
+    - <b>`Coach`</b> [Reinforcement Learning Coach by Intel](https://github.com/NervanaSystems/coach)
     - <b>`DeepPy`</b> [A Pythonic deep learning framework built on top of NumPy.](https://github.com/andersbll/deeppy)
     - <b>`Deepnet`</b> [A GPU-based python implementation of deep learning algorithms.](https://github.com/nitishsrivastava/deepnet) 
     - <b>`Deepgaze`</b> [A computer vision library for human-computer interaction based on CNNs](https://github.com/mpatacchiola/deepgaze) 
@@ -221,6 +231,7 @@ You should find the papers and software with star flag are more important or pop
     - <b>`DeepDetect` </b>[Open Source Deep Learning Server & API](https://deepdetect.com/) 
     - <b>`DIGITS`</b> [A new system for developing, training and visualizing deep neural networks.](https://developer.nvidia.com/digits) 
     - <b>`Dlib`</b> [A modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++.](http://dlib.net/)
+    - <b>`Dll`</b> [Deep Learning Library](https://github.com/wichtounet/dll)
     - <b>`DSSTNE`</b> [An Amazon developed library for building Deep Learning (DL) machine learning (ML) models.](https://github.com/amznlabs/amazon-dsstne) 
     - <b>`Jik`</b> [Lightweight Deep Learning Framework](https://github.com/oliviersoares/jik)
     - <b>`Kann`</b> [A lightweight C library for artificial neural networks](https://github.com/attractivechaos/kann)
@@ -278,12 +289,14 @@ You should find the papers and software with star flag are more important or pop
     - [A PyTorch Implementation of Single Shot MultiBox Detector.](https://github.com/amdegroot/ssd.pytorch)
     - [A simple PyTorch Implementation of Generative Adversarial Networks, focusing on anime face drawing](https://github.com/jayleicn/animeGAN)
     - [A short tutorial on performing fine tuning or transfer learning in PyTorch.](https://github.com/Spandan-Madan/Pytorch_fine_tuning_Tutorial)
+    - [A universal and efficient framework for training well-performing light net](https://github.com/zhougr1993/Rocket-Launching)
     - [A utility library around PyTorch](https://github.com/nasimrahaman/inferno)
     - [Comprehensive Data Augmentation and Sampling for Pytorch](https://github.com/ncullen93/torchsample)
     - [CNNs for Sentence Classification in PyTorch](https://github.com/Shawn1993/cnn-text-classification-pytorch)
     - [Convolutional recurrent network in pytorch](https://github.com/meijieru/crnn.pytorch)
     - [Datasets, Transforms and Models specific to Computer Vision](https://github.com/endymecy/vision) :star:
     - [Deep AutoEncoders for Collaborative Filtering](https://github.com/NVIDIA/DeepRecommender)
+    - [Deep Reinforcement Learning with pytorch & visdom](https://github.com/jingweiz/pytorch-rl)
     - [Deep Q-Learning Network in pytorch](https://github.com/transedward/pytorch-dqn)
     - [Draw like Bob Ross using the power of Neural Networks](https://github.com/kendricktan/drawlikebobross)
     - [Facebook AI Research Sequence-to-Sequence Toolkit written in Python.](https://github.com/facebookresearch/fairseq-py)
@@ -292,12 +305,14 @@ You should find the papers and software with star flag are more important or pop
     - [Highway networks implemented in PyTorch.](https://github.com/c0nn3r/pytorch_highway_networks)
     - [Image Classification Project Killer in PyTorch](https://github.com/felixgwu/img_classification_pk_pytorch)
     - [Image-to-image translation in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) :star:
+    - [Implementation of various methods for dimensionality reduction and spectral clustering implemented with Pytorch](https://github.com/dimkastan/PyTorch-Spectral-clustering)
     - [InferSent is a sentence embeddings method that provides semantic sentence representations.](https://github.com/facebookresearch/InferSent)
     - [LeafSnap replicated using deep neural networks to test accuracy compared to traditional computer vision methods.](https://github.com/sujithv28/Deep-Leafsnap)
     - [Lightweight implementation of neural style in Pytorch with SqueezeNet](https://github.com/lizeng614/SqueezeNet-Neural-Style-Pytorch)
     - [OpenNMT: Open-Source Neural Machine Translation in PyTorch](https://github.com/OpenNMT/OpenNMT-py) :star:
     - [Open source person re-identification library in python](https://github.com/Cysu/open-reid) :star:
     - [Probabilistic Programming and Statistical Inference in PyTorch](https://github.com/stepelu/ptstat)
+    - [PyTorch ASR Implementation](https://github.com/awni/speech)
     - [PyTorch Implementation of CycleGAN and SGAN for Domain Transfer](https://github.com/yunjey/mnist-svhn-transfer)
     - [PyTorch implementation of Fully Convolutional Networks](https://github.com/wkentaro/pytorch-fcn)
     - [Pytorch Implementation of Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://github.com/ceshine/fast-neural-style)
@@ -307,6 +322,7 @@ You should find the papers and software with star flag are more important or pop
     - [PyTorch Marvelous ChatBot](https://github.com/jinfagang/pytorch_chatbot) :star:
     - [PyTorch module to use OpenFace's nn4.small2.v1.t7 model](https://github.com/thnkim/OpenFacePytorch)
     - [Pytorch Negative Sampling Loss](https://github.com/analvikingur/pytorch_NEG_loss)
+    - [PyTorch Neural Turing Machine (NTM)](https://github.com/loudinthecloud/pytorch-ntm)
     - [Pytorch Poetry Generation](https://github.com/jhave/pytorch-poetry-generation)
     - [Quickly comparing your image classification models with the state-of-the-art models](https://github.com/felixgwu/img_classification_pk_pytorch)
     - [Semantic Image Segmentation in Pytorch](https://github.com/warmspringwinds/dense-ai)
@@ -387,6 +403,7 @@ You should find the papers and software with star flag are more important or pop
     - [Neural Relation Extraction implemented with LSTM in TensorFlow](https://github.com/thunlp/TensorFlow-NRE)
     - [Object Tracking in Tensorflow ( Localization Detection Classification ) developed to partecipate to ImageNET VID competition](https://github.com/DrewNF/Tensorflow_Object_Tracking_Video) :star:
     - [OCR text recognition using tensorflow with attention](https://github.com/pannous/tensorflow-ocr) :star:
+    - [Open Source Neural Machine Translation in TensorFlow](https://github.com//OpenNMT/OpenNMT-tf) :star:
     - [Photographic Image Synthesis with Cascaded Refinement Networks](https://github.com/CQFIO/PhotographicImageSynthesis)
     - [PixelVAE with or without regularization](https://github.com/ShengjiaZhao/Generalized-PixelVAE)
     - [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://github.com/charlesq34/pointnet) :star:
@@ -399,6 +416,7 @@ You should find the papers and software with star flag are more important or pop
     - [Separating singing voice from music based on deep neural net in Tensorflow](https://github.com/andabi/music-source-separation)
     - [Seq2Seq Chatbot](https://github.com/zsdonghao/seq2seq-chatbot)
     - [Sequence prediction using recurrent neural networks(LSTM) with TensorFlow](https://github.com/mouradmourafiq/tensorflow-lstm-regression)
+    - [Sequence Semantic Embedding](https://github.com/eBay/Sequence-Semantic-Embedding)
     - [Sequence-to-Sequence Grapheme-to-Phoneme toolkit](https://github.com/cmusphinx/g2p-seq2seq)
     - [Simple embedding based text classifier inspired by fastText, implemented in tensorflow](https://github.com/apcode/tensorflow_fasttext)
     - [Simple Recommender System using Denoising AutoEncoder, implemented using TensorFlow](https://github.com/smajida/RecSys-DAE-tensorflow)
@@ -467,10 +485,14 @@ You should find the papers and software with star flag are more important or pop
 # Awesome Projects
 
 - [15 AI and Machine Learning Events](http://botunity.co/14-ai-and-machine-learning-events/)
+- [188 examples of artificial intelligence in action](https://poo.ai/)
 - [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
+- [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms)
 - [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R)
 - [A curated list of awesome SLAM tutorials, projects and communities.](https://github.com/kanster/awesome-slam)
 - [A curated list of resources dedicated to bridge between coginitive science and deep learning](https://github.com/robi56/awesome-cognitive-science-and-deep-learning)
+- [A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp)
+- [A curated list of resources for NLP (Natural Language Processing) for Chinese](https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99)
 - [A list of artificial intelligence tools you can use today](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 - [A list of deep learning implementations in biology](https://github.com/hussius/deeplearning-biology)
 - [Awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec) 
@@ -494,6 +516,7 @@ You should find the papers and software with star flag are more important or pop
 - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
 - [Awesome Machine Learning Projects](https://ml-showcase.com/)
 - [Awesome Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+- [Awesome MXNet](https://github.com//chinakook/Awesome-MXNet)
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Awesome PyTorch](https://github.com/rickiepark/awesome-pytorch) :star:
 - [Awesome-question-answering](https://github.com/dapurv5/awesome-question-answering)
@@ -506,30 +529,37 @@ You should find the papers and software with star flag are more important or pop
 - [Awesome speech recognition speech synthesis papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) :star:
 - [Chainer Info](https://github.com/hidetomasuoka/chainer-info)
+- [Chat corpus collection from various open sources](https://github.com/Marsan-Ma/chat_corpus)
 - [Collection of generative models, e.g. GAN, VAE in Tensorflow, Keras, and Pytorch](https://github.com/wiseodd/generative-models) :star:
+- [Collection of Keras models used for classification](https://github.com//titu1994/Keras-Classification-Models)
 - [Collection of papers and other resources for object tracking and detection using deep learning](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 - [Collection of reinforcement learners implemented in python.](https://github.com/Islandman93/reinforcepy)
 - [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models)
 - [Curated list of python software and packages related to scientific research in audio](https://github.com/faroit/awesome-python-scientific-audio)
 - [Datasets for Natural Language Processing](https://github.com/karthikncode/nlp-datasets)
 - [Datasets, Transforms and Models specific to Computer Vision](https://github.com/pytorch/vision/)
+- [Deep Learning and Time Series](https://github.com//FrancisArgnR/Time-series---deep-learning---state-of-the-art)
 - [Deep Learning for Recommendation Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)
 - [Deep Learning Model Convertors](https://github.com/ysh329/deep-learning-model-convertor)
 - [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 - [Deep Learning Processor List](https://zhuanlan.zhihu.com/p/28406226)
 - [Deep Learning Toolbox](https://github.com/dmarnerides/dlt)
+- [Enumerate diverse machine learning training tricks.](https://github.com/Conchylicultor/Deep-Learning-Tricks)
 - [First International Workshop on Deep Learning and Music](https://arxiv.org/html/1706.08675)
 - [Generative Models](https://github.com/wiseodd/generative-models)
 - [HEPML Resources](https://github.com/iml-wg/HEP-ML-Resources)
+- [List of articles related to deep learning applied to music](https://github.com/ybayle/awesome-deep-learning-music)
 - [Machine Learning / Deep Learning Conferences](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/)
 - [Machine Learning Videos](https://github.com/dustinvtran/ml-videos)
 - [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 - [Must-read papers on NRL/NE.](https://github.com/thunlp/NRLpapers)
 - [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
+- [Open-source simulator for autonomous driving research](https://github.com/carla-simulator/carla) :star:
 - [Over 7 million published research papers in Computer Science and Neuroscience.](http://labs.semanticscholar.org/corpus/)
 - [Paper list of multi-agent reinforcement learning (MARL)](https://github.com/LantaoYu/MARL-Papers)
 - [Really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
 - [Really-awesome-semantic-segmentation](https://github.com/nightrome/really-awesome-semantic-segmentation)
+- [Recommended Papers. Subjects: Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Learning (cs.LG)](https://github.com//ArcherFMY/Paper_Reading_List)
 - [Related Paper of Efficient Deep Neural Networks](https://github.com/Zhouaojun/Efficient-Deep-Learning)
 - [Repository to research & share the machine learning articles](https://github.com/arXivTimes/arXivTimes)
 - [Resources and codes about transfer learning and domain adaptation](https://github.com/jindongwang/transferlearning)
@@ -562,13 +592,17 @@ You should find the papers and software with star flag are more important or pop
 - [中文句结构树资料库](http://turing.iis.sinica.edu.tw/treesearch/)
 - [中文对白语料 chinese conversation corpus](https://github.com/rustch3n/dgk_lost_conv)
 - [中文语料小数据：Some useful Chinese corpus datasets](https://github.com/crownpku/Small-Chinese-Corpus)
+- [中文人名语料库。中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名](https://github.com/wainshine/Chinese-Names-Corpus)
 - [联合国平行语料库](https://conferences.unite.un.org/UNCorpus/zh)
 - [保险行业语料库](https://github.com/Samurais/insuranceqa-corpus-zh)
+- [用于训练中英文对话系统的语料库 Datasets for Training Chatbot System](https://github.com/candlewill/Dialog_Corpus)
+- [PTT 八卦版問答中文語料](https://github.com/zake7749/Gossiping-Chinese-Corpus)
 - [3 Million Instacart Orders, Open Sourced](https://www.instacart.com/datasets/grocery-shopping-2017)
 - [ACM Multimedia Systems Conference Dataset Archive](http://traces.cs.umass.edu/index.php/Mmsys/Mmsys)
 - [A dataset for book recommendations: ten thousand books, one million ratings](https://www.kaggle.com/zygmunt/goodbooks-10k)
 - [A dataset of 200k English plaintext jokes.](https://github.com/taivop/joke-dataset)
 - [A large-scale and high-qualityFMA: A Dataset For Music Analysis dataset of annotated musical notes.](https://magenta.tensorflow.org/datasets/nsynth)
+- [A large-scale dataset of manually annotated audio events](https://research.google.com/audioset/) :star:
 - [Alphabetical list of free/public domain datasets with text data for use in NLP](https://github.com/niderhoff/nlp-datasets)
 - [A MNIST-like fashion product database](https://github.com/zalandoresearch/fashion-mnist) :star:
 - [An awesome list of high-quality datasets](https://webhose.io/datasets) :star:
@@ -583,6 +617,7 @@ You should find the papers and software with star flag are more important or pop
 - [Datasets of Annotated Semantic Relationships](https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets)
 - [Datasets for Data Science and Machine Learning](https://elitedatascience.com/datasets)
 - [DeepDive Open Datasets](http://deepdive.stanford.edu/opendata/) :star:
+- [EMOTIC Dataset](http://sunai.uoc.edu/emotic/)
 - [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
 - [Hard Drive Data and Stats](https://www.backblaze.com/b2/hard-drive-test-data.html)
 - [Japanese Word Similarity Dataset](https://github.com/tmu-nlp/JapaneseWordSimilarityDataset)
@@ -590,11 +625,14 @@ You should find the papers and software with star flag are more important or pop
 - [LLD - Large Logo Dataset](https://data.vision.ee.ethz.ch/cvl/lld/)
 - [Movie Review Data](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
 - [Multi-Domain Sentiment Dataset](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/)
+- [Open Speech and Language Resources](http://www.openslr.org/33) :star:
 - [Pixiv Dataset Overview](https://github.com/jerryli27/pixiv_dataset)
 - [Some good papers I like](https://github.com/hoangcuong2011/Good-Papers)
+- [Street View Image, Pose, and 3D Cities Dataset](https://github.com/amir32002/3D_Street_View)
 - [Ten thousand books, six million ratings](https://github.com/zygmuntz/goodbooks-10k)
 - [The DBpedia Knowledge Base](http://wiki.dbpedia.org/about)
 - [The Quick, Draw! Dataset](https://github.com/googlecreativelab/quickdraw-dataset)
 - [TriviaQA: A Large Scale Dataset for Reading Comprehension and Question Answering](http://nlp.cs.washington.edu/triviaqa/)
+- [VGGFace2 Dataset](http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/)
 - [Wolfram Data Repository](https://datarepository.wolframcloud.com/)
 - [Yelp Open Dataset](https://www.yelp.com/dataset)

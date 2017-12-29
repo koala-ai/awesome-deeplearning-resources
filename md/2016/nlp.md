@@ -18,11 +18,13 @@
 - Character-level and Multi-channel Convolutional Neural Networks for Large-scale Authorship Attribution. [`arxiv`](https://arxiv.org/abs/1609.06686)
 - COCO-Text-Dataset and Benchmark for Text Detection and Recognition in Natural Images. [`pdf`](http://sunw.csail.mit.edu/papers/01_Veit_SUNw.pdf)
 - Collaborative Recurrent Autoencoder: Recommend while Learning to Fill in the Blanks. [`arxiv`](https://arxiv.org/abs/1611.00454)
+- Collaborative Recurrent Neural Networks for Dynamic Recommender Systems. [`pdf`](https://infoscience.epfl.ch/record/222477/files/ko101.pdf) [`tensorflow`](https://github.com/lca4/collaborative-rnn)
 - Context-aware Natural Language Generation with Recurrent Neural Networks. [`arxiv`](https://arxiv.org/abs/1611.09900)
 - <b>[CLSTM]</b> Contextual LSTM models for Large scale NLP tasks. [`pdf`](http://www.csl.sri.com/users/shalini/clstm_dlkdd16.pdf) :star: 
 - Deep Biaffine Attention for Neural Dependency Parsing. [`pdf`](https://openreview.net/pdf?id=Hk95PK9le) [`code`](https://github.com/tdozat/Parser) :star:
 - Deep Semi-Supervised Learning with Linguistically Motivated Sequence Labeling Task Hierarchies. [`arxiv`](https://arxiv.org/abs/1612.09113)
-- Detecting Text in Natural Image with Connectionist Text Proposal Network. [`arxiv`](https://arxiv.org/abs/1609.03605)
+- Deep Neural Networks for YouTube Recommendations. [`pdf`](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)
+- Detecting Text in Natural Image with Connectionist Text Proposal Network. [`arxiv`](https://arxiv.org/abs/1609.03605) [`code`](https://github.com/qingswu/CTPN)
 - Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models. [`arxiv`](https://arxiv.org/abs/1610.02424)
 - Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers. [`arxiv`](https://arxiv.org/abs/1602.00367)
 - End-to-End Answer Chunk Extraction and Ranking for Reading Comprehension. [`arxiv`](https://arxiv.org/abs/1610.09996)
@@ -117,6 +119,7 @@
 
 - Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models. [`arxiv`](https://arxiv.org/abs/1604.00788) :star: 
 - A Character-level Decoder without Explicit Segmentation for Neural Machine Translation. [`pdf`](https://www.aclweb.org/anthology/P/P16/P16-1160.pdf) :star: 
+- A Convolutional Encoder Model for Neural Machine Translation. [`arxiv`](https://arxiv.org/abs/1611.02344) [`pytorch`](https://github.com//pravarmahajan/cnn-encoder-nmt)
 - Character-based Neural Machine Translation. [`arxiv`](https://arxiv.org/abs/1511.04586) :star: 
 - Context-Dependent Word Representation for Neural Machine Translation. [`arxiv`](https://arxiv.org/pdf/1607.00578.pdf)
 - Convolutional Encoders for Neural Machine Translation. [`pdf`](https://cs224d.stanford.edu/reports/LambAndrew.pdf)
